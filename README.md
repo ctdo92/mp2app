@@ -15,3 +15,5 @@ Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 See [LICENSE](LICENSE)
+
+***Latest commit has everything from codelab working on Galaxy S3, Nexus 7, but not on my HTC One (most likely bc of Google 2 step Authentication)
